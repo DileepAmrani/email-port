@@ -132,6 +132,12 @@ function Navbar() {
               <span className={classes.text}>Create new Campaign</span>
             </Link>
           </li>
+          <li className={classes.navText}>
+            <Link to="/createlist" className={classes.link}>
+              <IoIosCreate color="#000" />
+              <span className={classes.text}>Create new List</span>
+            </Link>
+          </li>
           <li className={classes.navTextHeading}>
             <span>CAMPAIGNS</span>
           </li>

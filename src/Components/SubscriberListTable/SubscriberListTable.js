@@ -2,7 +2,7 @@ import * as React from "react";
 import { AiFillDelete } from "react-icons/ai";
 import { FaSort } from "react-icons/fa";
 import { MdEdit } from "react-icons/md";
-import { AiOutlinePlusCircle, AiOutlineSearch } from "react-icons/ai";
+import { AiOutlinePlusCircle  } from "react-icons/ai";
 import Button from "@material-ui/core/Button";
 import "./SubscriberListTable.css";
 
